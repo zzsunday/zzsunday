@@ -13,18 +13,13 @@
 <p align="left">
 <!--   -->
 <img align="center" src="assets/python.svg" alt="python"/>
- <img align="center" src="assets/linux.svg" alt="linux"/>
+<img align="center" src="assets/linux.svg" alt="linux"/>
+ <img align="center" src="assets/Rlogo.svg" alt="R"/>
 </p>
 
 
 ### 🤝🏻 Connect with me!
 
-[![wechat](https://img.shields.io/badge/sunda-微信公众号-important)](https://github.com/zzsunday/zzsunday/blob/main/assets/wechat.jpg) 
+[![wechat](https://img.shields.io/badge/sunday-微信公众号-important)](https://github.com/zzsunday/zzsunday/blob/main/assets/wechat.jpg) 
 
-<p align="left">
- <a href="https://img.shields.io/badge/sunda-微信公众号-important">
-  <img align="left" alt="Karthik Nayak | Twitter" width="30px" src="https://github.com/zzsunday/zzsunday/blob/main/assets/wechat.jpg" />
- </a>
-</p>
 
-<br/>
