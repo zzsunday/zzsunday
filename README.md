@@ -11,8 +11,7 @@
 ### ⚙️ Tools and Technologies
 
 <p align="left">
-<!--  <img align="center" src="assets/c.svg" alt="c"/>
- <img align="center" src="assets/c++.svg" alt="c++"/> -->
+<!--   -->
 <img align="center" src="assets/python.svg" alt="python"/>
  <img align="center" src="assets/linux.svg" alt="linux"/>
 </p>
