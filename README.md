@@ -7,9 +7,4 @@
 
 ![zzsunday's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzsunday&show_icons=true&theme=radical)
 
-{
-  "image": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
-  "issueId": 66,
-  "name": "Eddie Jaoude",
-  "username": "eddiejaoude"
-}
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
