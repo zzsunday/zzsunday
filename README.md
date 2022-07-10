@@ -14,7 +14,7 @@
 <!--   -->
 <img align="center" src="assets/python.svg" alt="python"/>
 <img align="center" src="assets/linux.svg" alt="linux"/>
- <img align="center" src="assets/Rlogo.png" alt="R"/>
+ <img align="center" src="assets/R.png" alt="R"/>
 </p>
 
 
