@@ -20,8 +20,8 @@
 ### 🤝🏻 Connect with me!
 
 <p align="left">
- <a href="https://twitter.com/karthiknayak98">
-  <img align="left" alt="Karthik Nayak | Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />
+ <a href="https://img.shields.io/badge/sunda-微信公众号-important">
+  <img align="left" alt="Karthik Nayak | Twitter" width="30px" src="assets/wechat.png" />
  </a>
 </p>
 
